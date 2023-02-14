@@ -6,8 +6,11 @@ Algorithmic trading.
 
 Indicator:
 
-* MACD (Optimization, )
+* MACD (Optimization, Analysis)
 * STOCH (Optimization, )
 * RSI (Optimization, )
 
+**Note:** The notebooks used for analysis will not include the optimized 
+parameters, in case you want to use the optimized parameters you need 
+to set them, I recommend to start with the default parameters
 

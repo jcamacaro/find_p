@@ -8,5 +8,6 @@ Indicator:
 
 * MACD (Optimization, )
 * STOCH (Optimization, )
+* RSI (Optimization, )
 
 

@@ -7,7 +7,7 @@ Algorithmic trading.
 Indicator:
 
 * MACD (Optimization, Analysis)
-* STOCH (Optimization, )
+* STOCH (Optimization, Analysis)
 * RSI (Optimization, Analysis)
 
 **Note:** The notebooks used for analysis will not include the optimized 

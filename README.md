@@ -6,7 +6,8 @@ Algorithmic trading.
 
 Indicator:
 
-* MACD (Optimization, Analysis)
+* MACD (Optimization, Analysis):
+  MACD is specially good in trending markets, but generate alot of noise in saideways markets.
 * STOCH (Optimization, Analysis)
 * RSI (Optimization, Analysis)
 
